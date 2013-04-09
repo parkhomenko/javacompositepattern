@@ -3,6 +3,10 @@ package javacompositepattern;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 
+ * Composite Class
+ */
 public class CarSystem extends CarComponent {
     
     List<CarComponent> systems = new ArrayList<>();

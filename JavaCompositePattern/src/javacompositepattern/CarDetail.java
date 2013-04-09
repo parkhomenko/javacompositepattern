@@ -1,5 +1,9 @@
 package javacompositepattern;
 
+/**
+ * 
+ * Leaf Class
+ */
 public class CarDetail extends CarComponent {
     
     String name;
